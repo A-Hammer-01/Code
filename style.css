@@ -1,1 +1,12 @@
+.image-center {
+    text-align: center;
+    padding-top: 300px;
+}
 
+.height {
+    height: 100px;
+}
+
+.hidden {
+    display: none;
+}
